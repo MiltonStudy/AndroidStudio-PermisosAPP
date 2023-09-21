@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PermisosApp</string>
+    <string name="btnCheckPermissions">Verificar Permisos</string>
+    <string name="btnRequestPermissions">Solicitar Permisos</string>
+    <string name="tvCamara">Permisos de camara</string>
+    <string name="tvContactos">Permisos de Contactos</string>
+    <string name="tvAlmacenamiento">Permisos de Almacenamiento</string>
+</resources>
